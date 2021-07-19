@@ -1,0 +1,32 @@
+﻿  QuadTree.cpp
+C:\Users\habea\source\repos\QuadTree\QuadTree\QuadTree.cpp(147,40): warning C4390: ';': empty controlled statement found; is this the intent?
+C:\Users\habea\source\repos\QuadTree\QuadTree\QuadTree.cpp(255,37): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\habea\source\repos\QuadTree\QuadTree\QuadTree.cpp(255,23): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\habea\source\repos\QuadTree\QuadTree\QuadTree.cpp(254,52): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\habea\source\repos\QuadTree\QuadTree\QuadTree.cpp(254,38): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\habea\source\repos\QuadTree\QuadTree\QuadTree.cpp(262,37): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\habea\source\repos\QuadTree\QuadTree\QuadTree.cpp(262,23): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\habea\source\repos\QuadTree\QuadTree\QuadTree.cpp(261,52): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\habea\source\repos\QuadTree\QuadTree\QuadTree.cpp(261,38): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\habea\source\repos\QuadTree\QuadTree\QuadTree.cpp(288,41): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\habea\source\repos\QuadTree\QuadTree\QuadTree.cpp(287,52): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\habea\source\repos\QuadTree\QuadTree\QuadTree.cpp(296,45): warning C4244: '=': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\habea\source\repos\QuadTree\QuadTree\QuadTree.cpp(297,45): warning C4244: '=': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\habea\source\repos\QuadTree\QuadTree\QuadTree.cpp(327,20): warning C4018: '<': signed/unsigned mismatch
+  QuadTree.vcxproj -> C:\Users\habea\source\repos\QuadTree\Debug\QuadTree.exe
